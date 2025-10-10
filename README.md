@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **qiime2, figaro, gromacs, cheminformatics and various bioinformatics tools**
 
-- 👯Let's Collaborate **Bioinformatics, Computational Biology, Genomics and Transcriptomics Projects**
+- 👯Let's Collaborate on **Bioinformatics, Computational Biology, Genomics and Transcriptomics Projects**
 
 - 👨‍💻 Portfolio: [https://www.datascienceportfol.io/parthivrajesh](https://www.datascienceportfol.io/parthivrajesh)
 
