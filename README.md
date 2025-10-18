@@ -5,7 +5,7 @@
 
 - 👯Let's Collaborate on **Bioinformatics, Computational Biology, Cheminformatics, Genomics, and Transcriptomics Projects**
 
-- 👨‍💻 Portfolio: [https://www.datascienceportfol.io/parthivrajesh](https://www.datascienceportfol.io/parthivrajesh)
+- 👨‍💻 Portfolio: [PORTFOLIO](https://www.datascienceportfol.io/parthivrajesh)
 
 - 📫 Mail ID: **offersparthiv@gmail.com**
 
