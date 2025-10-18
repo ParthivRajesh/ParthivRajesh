@@ -9,7 +9,7 @@
 
 - 📫 Mail ID: **offersparthiv@gmail.com**
 
-- 📄 Resume: [https://acrobat.adobe.com/id/urn:aaid:sc:AP:1659fdcf-5172-4e0e-b9e3-2154cb9c2b44](https://acrobat.adobe.com/id/urn:aaid:sc:AP:1659fdcf-5172-4e0e-b9e3-2154cb9c2b44)
+- 📄 Resume: [RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a100bbeb-de04-45d8-aaab-862a2493959d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
