@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Parthiv Rajesh</h1>
 <h3 align="center">I am a Final-year B.Tech Bioengineering student exploring bioinformatics and computational biology, building projects that connect data, code, and healthcare.</h3>
 
-- 🌱 I’m currently learning **qiime2, figaro, gromacs, cheminformatics and various bioinformatics tools**
+- 🌱 I’m currently learning **R, Alphafold, GROMACS, CRISPR, scRNA-Seq, Advanced WES, cheminformatics and various bioinformatics tools**
 
 - 👯Let's Collaborate on **Bioinformatics, Computational Biology, Cheminformatics, Genomics, and Transcriptomics Projects**
 
