@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio: [PORTFOLIO](https://www.datascienceportfol.io/parthivrajesh)
 
-- 📫 Mail ID: **offersparthiv@gmail.com**
+- 📫 Mail ID: **parthivrajesh07@gmail.com**
 
 - 📄 Resume: [RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a100bbeb-de04-45d8-aaab-862a2493959d)
 
