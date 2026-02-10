@@ -7,5 +7,5 @@
 
 - Mail ID: **parthivrajesh07@gmail.com**
 
-- Resume: [RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a100bbeb-de04-45d8-aaab-862a2493959d)
+- Resume: [RESUME](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8cdb07d7-b666-409f-85d0-c1280c1df393)
 
